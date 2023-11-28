@@ -1,3 +1,6 @@
+### Student ID: 11124414
+### Name: Thelma Asare
+
 # Department of Computer Science Website
 Welcome to the repository for the Department of Computer Science website project! This project is a result of my efforts to create a simple and visually appealing website using HTML and CSS for the Computer Science department at [Your University/Institution Name].
 
